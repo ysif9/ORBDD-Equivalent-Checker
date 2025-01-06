@@ -1,12 +1,8 @@
 # ROBDD Equivalence Checker
 
----
-
 ## Description
 
 The ROBDD (Reduced Ordered Binary Decision Diagram) Equivalence Checker is a Python-based tool that evaluates the equivalence of two Boolean functions. It builds and visualizes ROBDDs for the given functions and determines whether they are equivalent or not.
-
----
 
 ## Features
 
@@ -15,8 +11,6 @@ The ROBDD (Reduced Ordered Binary Decision Diagram) Equivalence Checker is a Pyt
 - Construct BDDs and optimize them into ROBDDs.
 - Compare ROBDDs for equivalence.
 - Visualize BDD and ROBDD diagrams.
-
----
 
 ## Input Format
 
@@ -30,8 +24,6 @@ The ROBDD (Reduced Ordered Binary Decision Diagram) Equivalence Checker is a Pyt
 
 **Example**:  
 `A & (B | !C)`  
-
----
 
 ## Example Output
 
